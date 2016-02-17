@@ -1,0 +1,30 @@
+<DOCTYPE HTML>
+<HTML>
+<HEAD>
+<TITLE>Cinema</TITLE>
+<link rel="stylesheet" type="text/css" href="monstyle.css">
+</HEAD>
+<BODY>
+ <H1>CINEMA</H1>
+ 
+<link rel="stylesheet" type="text/css" href="monstyle.css">
+
+<a href="fastandfurious.html">Fast and Furious</a>
+<br/>
+<br/>
+<a href="got.html">Game of Thrones</a>
+<br/>
+<br/>
+<a href="HP.html">Harry Potter</a>
+<br/>
+<br/> 
+<a href="projetx.html">Projet X</a>
+<br/>
+<br/> 
+<a href="gend.html">Les Gendarmes</a>
+<br/>
+<br/> 
+<a href="AS.html">American Sniper</a>
+
+ </BODY>
+</HTML>
