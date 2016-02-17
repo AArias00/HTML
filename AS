@@ -1,0 +1,15 @@
+
+<DOCTYPE HTML>
+<HTML>
+<HEAD>
+<TITLE>Cinema"</TITLE>
+</HEAD>
+<BODY background="American-Sniper-Movie-Poster-7.jpg">
+ 
+ 
+
+<a href="new1.html">Retour</a>
+
+
+ </BODY>
+</HTML>
